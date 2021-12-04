@@ -26,6 +26,7 @@ easy-thumbnails==2.8
 html5lib==1.1
 lxml==4.6.4
 Pillow==8.4.0
+polls==0.1
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
 reportlab==3.6.2
